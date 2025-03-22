@@ -1,0 +1,19 @@
+{
+  "name": "HesapPxnel-ticket",
+  "version": "1.0.0",
+  "description": "HesapPxnel ticket bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Whisky Lorean",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.7",
+    "mongoose": "^6.0.2",
+    "node-fetch": "^3.2.6",
+    "whisky.db": "^0.1.4"
+  }
+}
